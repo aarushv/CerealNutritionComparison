@@ -1,0 +1,6 @@
+#Summary for A8 (Shiny):
+
+##The Shiny Application uses the Cereal.tsv dataset and displays bar charts for different manufacturers and either the Calorie or Potassium counts in all or the cereals of that respective brand. The interactive application displays two widgets on the left side of the screen and a main panel on the right side which renders the different plots. The widgets are drop-down menus which allow the user to select a manufacterer as well as a nutrient (Calories or Potassium) and the corresponding plot displays the relevant data regarding the quantity of that specific nutirient in each of the cereals produced by the selected manufacturer.
+
+
+##Link to the shiny application: https://aarushvohra.shinyapps.io/a8-shiny-aarushv/
